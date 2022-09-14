@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Afreed
-- 👀 I’m interested in Machine learning 
-- 🌱 I’m currently learning Artificial intelligence 
-- 💞️ I’m looking to collaborate on Inventions 
+- 👀 I’m interested in Anything that makes world better
+- 🌱 I’m currently learning Artificial intelligence
+- 💞️ I’m looking to collaborate on AI projections
 - 📫 How to reach me 'afreed4n@gmail.com'
 
 
